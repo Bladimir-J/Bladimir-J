@@ -1,18 +1,18 @@
-# Hola, soy Bladimir Jiménez 👋
+# Hola, soy Bladimir Jiménez 
 
 Desarrollador **Full Stack** junior en Madrid, formado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 Me gusta construir aplicaciones completas, del backend al frontend, y seguir aprendiendo cada día.
 
 📍 Madrid, España · 💼 Abierto a nuevas oportunidades · 📫 tadeobj07@gmail.com
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - **Lenguajes:** Java · Python · C++ · JavaScript · SQL
 - **Backend:** FastAPI · PostgreSQL
 - **Frontend:** HTML · CSS · JavaScript
 - **Herramientas:** Docker · Git · GitHub
   
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 ### 🎬 [Bonobo – App de películas](https://github.com/Bladimir-J/Bonobo)
 Mi Trabajo de Fin de Grado (DAM). Aplicación Full Stack para explorar películas,
