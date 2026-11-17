@@ -7,11 +7,11 @@ Me gusta construir aplicaciones completas, del backend al frontend, y seguir apr
 
 ## 🛠️ Tecnologías
 
-**Lenguajes:** Java · Python · C++ · JavaScript · SQL
-**Backend:** FastAPI · PostgreSQL
-**Frontend:** HTML · CSS · JavaScript
-**Herramientas:** Docker · Git · GitHub
-
+- **Lenguajes:** Java · Python · C++ · JavaScript · SQL
+- **Backend:** FastAPI · PostgreSQL
+- **Frontend:** HTML · CSS · JavaScript
+- **Herramientas:** Docker · Git · GitHub
+  
 ## 🚀 Proyectos destacados
 
 ### 🎬 [Bonobo – App de películas](https://github.com/Bladimir-J/Bonobo)
