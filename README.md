@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Bladimir Jiménez 👋
 
-<!--
-**Bladimir-J/Bladimir-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador **Full Stack** junior en Madrid, formado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Me gusta construir aplicaciones completas, del backend al frontend, y seguir aprendiendo cada día.
 
-Here are some ideas to get you started:
+📍 Madrid, España · 💼 Abierto a nuevas oportunidades · 📫 tadeobj07@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+**Lenguajes:** Java · Python · C++ · JavaScript · SQL
+**Backend:** FastAPI · PostgreSQL
+**Frontend:** HTML · CSS · JavaScript
+**Herramientas:** Docker · Git · GitHub
+
+## 🚀 Proyectos destacados
+
+### 🎬 [Bonobo – App de películas](https://github.com/Bladimir-J/Bonobo)
+Mi Trabajo de Fin de Grado (DAM). Aplicación Full Stack para explorar películas,
+desarrollada en Python. La sigo mejorando poco a poco con nuevas funcionalidades.
+
+### 🍦 [E-commerce Heladerías Moyo y Vida](https://github.com/Heladerias-Moyo-y-Vida/hmv-clients-web-ecommerce)
+Tienda online para una cadena de heladerías: catálogo de productos, flujo de pedido y pago.
+Trabajo en equipo con ramas y pull requests.
+
+## 🤝 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bladimir_Jiménez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bladimir-jiménez-jiménez-406a28252)
